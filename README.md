@@ -5,6 +5,7 @@ After discovering Flint has gone missing on their archaeology expedition, Jasper
 ## Team
 > Games Developer: CFY
 
+## Gameplay Loop
 ```
 Start Demo
 ├── Play Game
