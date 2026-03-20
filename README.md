@@ -49,4 +49,4 @@ Please see [Abyssmal Demo](https://h5h5.itch.io/abyssmal-demo)
 - `GameDevMarket` — Additional sprites, music, and background images.
 
 ## 📄 License
-This project is licensed under the **MIT License**.
+All Rights Reserved.
