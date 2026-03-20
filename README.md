@@ -20,7 +20,7 @@ Start Demo
 ```
 
 ## ✨ Features
-![Gameplay](level1.png)
+![Gameplay](Level1.png)
 - **Character Navigation** — Via keyboard controls, the player can move the character and interact with objects such as doors, enemies, collectibles and Chalk, the NPC.
 - **NPC Dialogue** — In the Tutorial, the character Chalk guides the player through the controls and the setup of the game.
 - **Collision Events** — Vertical and horizontal checks to check for objects that obstruct the player's path.
