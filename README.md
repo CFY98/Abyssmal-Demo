@@ -21,16 +21,15 @@ Start Demo
 
 ## ✨ Features
 ![Gameplay](Level1.png)
-- **Character Navigation** — Via keyboard controls, the player can move the character and interact with objects such as doors, enemies, collectibles and Chalk, the NPC.
-- **NPC Dialogue** — In the Tutorial, the character Chalk guides the player through the controls and the setup of the game.
-- **Collision Events** — Vertical and horizontal checks to check for objects that obstruct the player's path.
-- **Enemy UI** — Enemies detect and attack the player using distance-based calculations (Pythagorean theorem) to trigger combat, creating appropriate layers when within range. 
-- **Timer as Healthbar** — A dynamic timer doubles as the player’s health bar. As time decreases, the environment gradually darkens, increasing tension and visual feedback.
-- **Replenishing items** — Items such as batteries add an additional 30 seconds to the timer.
-- **Artifact Score** — A score counter that is updated when the player interacts with a collectable.
-- **Checkpoints** — New instances are created when the player continues to play the game or falls outside of the bounds of the levels. 
-- **Branching Paths** — The player may upon failure, the player has the option to continue which will lead to the good ending upon completion. The second option, 'give up', shall lead to the bad ending.
-- **Main Menu** — Another branching path which allows the player to start the game or end the demo.
+- **Character Navigation** — Keyboard-driven movement with object interaction across doors, collectibles, enemies, and the NPC Chalk.
+- **NPC Dialogue System** — Tutorial sequence where Chalk guides the player through controls and game setup.
+- **Collision Detection** — Vertical and horizontal checks to resolve object obstruction along the player's path.
+- **Enemy AI** — Distance-based detection using the Pythagorean theorem to trigger combat and manage layering within attack range.
+- **Dual-Purpose HUD** — A dynamic timer doubles as the health bar, with progressive environmental darkening as time decreases for tension and visual feedback.
+- **Replenishing Mechanic** — Collectible batteries extend the timer by 30 seconds, rewarding exploration.
+- **Branching Narrative** — Failure states offer a continue/give up choice leading to distinct good and bad endings, with a main menu as the entry branching point.
+- **Checkpoint System** — New instances spawned on continuation or out-of-bounds events to manage player respawning across levels.
+- **Artifact Score** — Real-time score counter updated on collectible interaction.
 
 ## 🎮 Controls
 - **Left Key**: Movees the player to the left.
